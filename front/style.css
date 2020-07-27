@@ -1,0 +1,23 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e4e3e3;
+}
+#header {
+  font-weight: 600;
+}
+#header h1 {
+  color: #204051;
+}
+
+#users .card {
+  color: #204051;
+  font-weight: 600;
+}
+
+#addNew button {
+  max-width: 100% !important;
+}
+
+.btnForm {
+  display: inline-block;
+}
